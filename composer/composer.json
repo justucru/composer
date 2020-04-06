@@ -1,0 +1,16 @@
+{
+    "name": "justine/composer",
+    "description": "Quete Composer",
+    "authors": [
+        {
+            "name": "Justine",
+            "email": "pignet.justine@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
